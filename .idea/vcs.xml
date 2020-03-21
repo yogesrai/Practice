@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyApplication1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-fundamentals-apps-v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-mediaplayer-sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-recyclerview-sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dma_2020" vcs="Git" />
+  </component>
+</project>
